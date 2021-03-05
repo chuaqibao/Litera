@@ -13,7 +13,7 @@ Traditional paradigms of a “one size fits all” educational approach in writi
 
 ### Solution
 
-Modern adaptive learning systems tailor learning experiences to the unique needs of students to improve writing skills1 based on their learning preferences, topics of interest and writing abilities and style. The user journey is outlined below.
+Modern adaptive learning systems tailor learning experiences to the unique needs of students to improve writing skills based on their learning preferences, topics of interest and writing abilities and style. The user journey is outlined below.
 
 <img width="588" alt="Screenshot 2021-03-05 at 11 14 37 PM" src="https://user-images.githubusercontent.com/62118373/110134627-9041c680-7e08-11eb-917e-8bf765200721.png">
 
