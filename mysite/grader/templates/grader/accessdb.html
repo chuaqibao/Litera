@@ -1,0 +1,23 @@
+{% if messages %}
+    {% for message in messages %}
+        <div>
+            <strong>{{message|safe}}</strong>
+        </div>
+    {% endfor %}
+{% else %}
+{{instruction}}
+<form method="post" enctype="multipart/form-data">
+    {%csrf_token %}
+    <label>Choose a database</label>
+    <br><br>
+    <input type="checkbox" name="db" value='Prompts'> Prompts
+    <br>
+    <input type="checkbox" name="db" value='Resources'> Resources
+    <br><br>
+    <label>Upload a file</label>
+    <br><br>
+    <input type="file" name="file">
+    <br><br>
+    <button type="submit">Upload</button>
+</form>
+{% endif %}
