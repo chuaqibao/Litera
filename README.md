@@ -42,4 +42,4 @@ https://www.researchgate.net/publication/319217963_Designing_an_Adaptive_Learnin
 
 ### Contributions
 
-Jointly developed by Chua Qi Bao, Gargi Pandkar, Seah Qi Yan for Splash Awards 2021
+Jointly developed by Chua Qi Bao, Gargi Pandkar, Seah Qi Yan for Splash Awards 2020
